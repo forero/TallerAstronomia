@@ -5,7 +5,7 @@ Benjamin Oostra (boostra)
 - Tomar fotografía de un planeta y compararlas para ver el movimiento.
 - Alguna idea de ustedes.
 
-Alejandro Garcia (josegarg)
+Alejandro Garcia (josegarc)
 ===========================
 - Supernovas y cosmología.
 - Variables Cefeidas y medición de distancias.
@@ -31,8 +31,8 @@ Jaime Forero (je.forero)
 Felipe Gomez (fl.gomez10)
 =========================
 - Fotografiar desde tierra la ISS.
-- Estimar la posición del centro de la Vía Láctea a partir de cúmulos estelares (*)
-- Estudiar la órbita tipo herradura de un asteroide (*)
+- Estimar la posición del centro de la Vía Láctea a partir de cúmulos estelares.
+- Estudiar la órbita tipo herradura de un asteroide.
 
 Nicolas Garavito (jn.garavito57)
 ================================
