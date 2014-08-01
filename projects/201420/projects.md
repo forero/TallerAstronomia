@@ -37,7 +37,7 @@ Felipe Gomez (fl.gomez10)
 Nicolas Garavito (jn.garavito57)
 ================================
 - The probability of get in touch with an other human civilization
-- Study the basics of radio astronomy and the possibility of make measurements with the antenna@uniandes.
+- Study the basics of radio astronomy and the possibility of make measurements with a radio antenna at uniandes.
 - Make at least 2 exercises of the CLEA (CONTEMPORARY LABORATORY EXPERIENCES IN ASTRONOMY) software.
 - Using Worldwide telescope software make a visualization tour.
 - Join the citizen science projects at https://www.zooniverse.org/.
