@@ -1,19 +1,20 @@
-Nombre, Charla
-Diego Umana, 4.5
-Juan Sebastian Barbosa, 5.0
-Diana Melendez, 3.5
-Juan Florez, 4.0
-Juan Prada, 3.0
-Luisa Fernanda Rodriguez, 4.5
-Andrea Buitrago, 3.5
-Esteban Pardo, 3.5
-Nicolas Plaza, 3.5
-Ana Maria Montes, 4.5
-Ray Diaz, 3.5
-Andres Penaranda, 4.0
-Juan David Araujo, 5.0
-Luisa Prado, 4.0
-Andres David Naranjo, 4.0
-Juan Carlos Burgos, 4.0
-Tania Cifuentes, 3.5
-Laura Ruiz, 1.0
+Apellidos,Nombre,Asistencia,Charla,Poster,Definitiva,Nota Banner
+Araujo Molina,Juan David,5,5,5,5,5
+Barbosa Coy,Juan Sebastian,5,5,5,5,5
+Buitrago Otalora,Andrea Catalina,5,3.5,5,4.55,4.6
+Burgos Angel,Juan Carlos,5,4,4,4.3,4.3
+Cifuentes Reyes,Tania Alexandra,5,3.5,5,4.55,4.6
+Diaz De La Barrera,Ray David,5,3.5,5,4.55,4.6
+Florez Mosos,Juan Jose,5,4,3,3.9,3.9
+Henriquez Bernal,David Alejandro,5,4,4,4.3,4.3
+Melendez Zamora,Diana,5,4,5,4.7,4.7
+Montes Ferro,Ana Maria,5,4.5,5,4.85,4.9
+Naranjo Quintero,Andres David,5,4,4.5,4.5,4.5
+Pardo Madrid Malo,Esteban,5,3.5,5,4.55,4.6
+Penaranda Garcia,Andres,5,4,5,4.7,4.7
+Plaza Bermudez,Nicolas,5,3.5,4,4.15,4.2
+Prada Murillo,Juan Sebastian,5,3,4.5,4.2,4.2
+Prado Arellano,Luisa Fernanda,5,4,5,4.7,4.7
+Rodriguez Diaz,Luisa Fernanda,5,4.5,5,4.85,4.9
+Saldarriaga Trejos,Santiago,5,4,4,4.3,4.3
+Umana Rojas,Diego Edison,5,4.5,0,2.85,PENDIENTE
