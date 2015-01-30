@@ -32,27 +32,24 @@ Jaime Forero (je.forero)
   materia oscura en la medición de su parámetro de concentración.
 - Estudiar trayectorias de agujeros negros alrededor del centro de una
   galaxia. 
+- Medir la evolución de la dispersión de un disco de escombros
+  alrededor de una estrella. 
 - Alguna idea de uds que tenga que ver con computadores y
   astrofísica. 
 
+
 Verónica Arias (v.arias)
 ========================
+- Órbitas en el potencial de una galaxia.
+- Medición de distancias (no astronómicas) usando paralaje.
+- Explorar alineaciones entre lugares arqueológicos en Colombia y
+  diferentes fenómenos astronómicos. 
 
 Nicolas Garavito (jn.garavito57)
 ================================
-- The probability of get in touch with an other human civilization
-- Study the basics of radio astronomy and the possibility of make
-  measurements with a radio antenna at uniandes. 
-- Make at least 2 exercises of the CLEA (CONTEMPORARY LABORATORY
-  EXPERIENCES IN ASTRONOMY) software. 
-- Using Worldwide telescope software make a visualization tour. 
-- Join the citizen science projects at https://www.zooniverse.org/. 
-- Make a Time-Lapse or just take pictures of an Astronomical
-  Event. Could be an Eclipse, a Solar Analemma, a meteorite shower. 
-- Make a Bibliographical study of the knowledge in astronomy of
-  Colombian Indigenous communities.  
-- Design outreach material for blind people.
-
+- Diseñar una carta celeste para ciegos
+- Diseñar un Juego ludico Astronomico para niños.
+- Investigar sobre astronomia ancestral en Colombia.
 
 
 
