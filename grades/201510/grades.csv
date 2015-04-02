@@ -1,22 +1,11 @@
-Nombre, ExpOral
-Kevin Andrade, 4.5
-Monica Barrera, 5.0
-Cristian Borja,
-Angelica De Dios, 4.5
-Alfonso Escolar, 
-John Escorcia, 4.5
-Luis Fonseca, 
-Andres Garcia, 3.5
-Jorge Garcia, 
-Maria Gomez, 
-Kevin Gonzalez, 3.0
-Diego Herrera, 
-Esteban Jurado,
-Camilo Martinez,
-Maria Martinez, 0.0 
-Alejandra Moncada,
-Juliana Munoz, 
-Lorena Neira,
-Maria Paula Rivera, 
-Andres Silva,
-Johan Vargas, 
+Nombre, ExpOral, AvanceI
+Kevin Andrade, 4.5, 5.0
+Monica Barrera, 5.0, 5.0
+Christian Borja, -, 5.0
+Angelica De Dios, 4.5, 5.0
+John Escorcia, 4.5, 5.0
+Andres Garcia, 3.5, 2.5
+Jorge Garcia, -, 5.0
+Maria Martinez, 0.0, 3.0
+Maria Paula Rivera, -, 5.0
+Johan Vargas, -, 2.0
