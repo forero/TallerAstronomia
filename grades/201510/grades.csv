@@ -1,11 +1,11 @@
-Nombre, ExpOral, AvanceI
-Kevin Andrade, 4.5, 5.0
-Monica Barrera, 5.0, 5.0
-Christian Borja, -, 5.0
-Angelica De Dios, 4.5, 5.0
-John Escorcia, 4.5, 5.0
-Andres Garcia, 3.5, 2.5
-Jorge Garcia, -, 5.0
-Maria Martinez, 0.0, 3.0
-Maria Paula Rivera, 3.5, 5.0
-Johan Vargas, 3.5, 2.0
+Nombre, ExpOral, AvanceI, Poster, Asistencia
+Kevin Andrade, 4.5, 5.0, 5.0, 5.0
+Monica Barrera, 5.0, 5.0, 0.0, 5.0
+Christian Borja, 5.0, 5.0, 5.0, 5.0
+Angelica De Dios, 4.5, 5.0, 5.0, 5.0
+John Escorcia, 4.5, 5.0, 4.5, 5.0
+Andres Garcia, 3.5, 2.5, 4.0, 5.0
+Jorge Garcia, 5.0, 5.0, 5.0, 5.0
+Maria Martinez, 0.0, 3.0, 0.0, 5.0
+Maria Paula Rivera, 3.5, 5.0, 5.0, 5.0
+Johan Vargas, 3.5, 2.0, 3.0, 5.0
