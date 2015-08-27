@@ -46,5 +46,6 @@ Felipe Gómez (fl.gomez10)
 
 Ray Diaz (rd.diaz887)
 ================================
-
+- Medición de distancia de una estrella en filtros BVI (La estrella puede ser de su preferencia)
+- Proyecto de divulgación uniandino (Más info por mail)
 
