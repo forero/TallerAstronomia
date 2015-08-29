@@ -43,6 +43,8 @@ Verónica Arias (v.arias)
 
 Felipe Gómez (fl.gomez10)
 ================================
+- Astrofotografía sin telescopio: Fotografiar el analema solar desde el edificio Q (Uniandes-Bogotá).
+- Python para Mecánica Celeste: Asteroides en resonancia con la órbita terrestre. (prerequisito: APO o saber programar en Python).
 
 Ray Diaz (rd.diaz887)
 ================================
