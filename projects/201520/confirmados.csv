@@ -1,12 +1,996 @@
-Nombres,Apellidos,Título del proyecto
-Germán David,Perdomo,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
-Juan Manuel,Romero V,Medicion a una estrella utilizando filtros BVI
-Nicolás ,Rocha Pacheco ,Reconocimiento automatico de patrones en la superficie del Sol
-henry andres,mojica mojica,identificacion de manchas solares
-Sebastián Camilo,Valencia Calderón,Mecánica celeste con Python
-Sebastián Camilo,Valencia Calderón,Machine learning con galacxias
-Estefania,Calderon Martinez,identificacion de manchas solares 
-Catalina,Gomez Caballero,Distancia a cúmulos abiertos usando diagrama color magnitud
-Angela María,Ramírez Rosales,Tomar fotos de Saturno y compararlas para ver el movimiento.
-Sneider,Velandia gonzalez,"Variabilidad estelar, Calculo de periodos "
-Alejandra,Aguilera ,Astrofotografía sin telescopio:
+Nombres,Apellidos,Tutor,Título del proyecto
+Germán David,Perdomo,Benjamín,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+Juan Manuel,Romero V,Ray,Medicion a una estrella utilizando filtros BVI
+Nicolás ,Rocha Pacheco ,Jaime,Reconocimiento automatico de patrones en la superficie del Sol
+henry andres,mojica mojica,Jaime,identificacion de manchas solares
+Sebastián Camilo,Valencia Calderón,Felipe,Mecánica celeste con Python
+Sebastián Camilo,Valencia Calderón,Jaime,Machine learning con galacxias
+Estefania,Calderon Martinez,Jaime,identificacion de manchas solares 
+Catalina,Gomez Caballero,Beatriz,Distancia a cúmulos abiertos usando diagrama color magnitud
+Angela María,Ramírez Rosales,Benjamín,Tomar fotos de Saturno y compararlas para ver el movimiento.
+Sneider,Velandia gonzalez,Alejandro,"Variabilidad estelar, Calculo de periodos "
+Alejandra,Aguilera ,Felipe,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
+,,,Título del proyecto
+,,,"•Tomar un espectro del sol (o de una estrella), un espectro de calibración, extraer los perfiles, y calibrar la escala de longitud de onda e identificar algunas líneas."
+,,,Medicion a una estrella utilizando filtros BVI
+,,,Reconocimiento automatico de patrones en la superficie del Sol
+,,,identificacion de manchas solares
+,,,Mecánica celeste con Python
+,,,Machine learning con galacxias
+,,,identificacion de manchas solares 
+,,,Distancia a cúmulos abiertos usando diagrama color magnitud
+,,,Tomar fotos de Saturno y compararlas para ver el movimiento.
+,,,"Variabilidad estelar, Calculo de periodos "
+,,,Astrofotografía sin telescopio:
