@@ -29,6 +29,7 @@ Alejandro Garcia (josegarc)
 Jaime Forero (je.forero)
 ========================
 - Estimar la masa total de la Via Lactea y Andromeda a partir de simulaciones de N-cuerpos.
+- Uso remoto de telescopios.
 - Alguna idea de uds que tenga que ver con astrofisica computacional.
 
 
