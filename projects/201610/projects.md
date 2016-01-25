@@ -18,14 +18,6 @@ Beatriz Sabogal (bsabogal)
 - Clasificación espectral de estrellas.
 - Detección de un planeta extrasolar.
 
-Alejandro Garcia (josegarc)
-===========================
-- Supernovas y cosmología.
-- Variables Cefeidas y medición de distancias.
-- Variabilidad estelar, calculo de períodos.
-- Prospección de un observatorio.
-- Concepciones populares sobre Astronomía.
-
 Jaime Forero (je.forero)
 ========================
 - Estimar la masa total de la Via Lactea y Andromeda a partir de simulaciones de N-cuerpos.
