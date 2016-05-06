@@ -1,7 +1,7 @@
-Apellidos,Nombre,Informe,Charla,Proyecto,Asistencia,Nota Final
-Trujillo Puentes,Oscar,5,5,5,5,5
-Rosero Latorre,Monica ,5,5,5,5,5
-Sierra,Alexander,3,4,4,5,3.8
-Gutierrez Pachecho,Sergio,5,5,4,5,4.7
-Rodriguez Forero,Sergio,3,5,5,5,4.4
-Vera Fonseca,Maria,1,4,4,5,3.2
+Apellidos,Nombre,Informe (33%),Charla (33%),Proyecto (33%),Nota Final
+Trujillo Puentes,Oscar,5,5,5,5.0
+Rosero Latorre,Monica ,5,5,5,5.0
+Sierra,Alexander,3,4,4,3.6
+Gutierrez Pachecho,Sergio,5,5,4,4.6
+Rodriguez Forero,Sergio,3,5,5,4.3
+Vera Fonseca,Maria,1.5,4,4,3.1
